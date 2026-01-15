@@ -1,0 +1,8612 @@
+[
+  {
+    "gameId": "0022500001",
+    "gameDate": "2025-10-21T23:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500002",
+    "gameDate": "2025-10-22T02:00:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500003",
+    "gameDate": "2025-10-22T23:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500004",
+    "gameDate": "2025-10-23T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500080",
+    "gameDate": "2025-10-22T23:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500081",
+    "gameDate": "2025-10-22T23:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500082",
+    "gameDate": "2025-10-22T23:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500083",
+    "gameDate": "2025-10-22T23:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500084",
+    "gameDate": "2025-10-23T00:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500085",
+    "gameDate": "2025-10-23T00:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500086",
+    "gameDate": "2025-10-23T00:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500087",
+    "gameDate": "2025-10-23T01:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500088",
+    "gameDate": "2025-10-23T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500089",
+    "gameDate": "2025-10-23T02:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500005",
+    "gameDate": "2025-10-23T23:30:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500006",
+    "gameDate": "2025-10-24T02:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500018",
+    "gameDate": "2025-10-24T23:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500019",
+    "gameDate": "2025-10-25T02:00:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500090",
+    "gameDate": "2025-10-24T23:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500091",
+    "gameDate": "2025-10-24T23:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500092",
+    "gameDate": "2025-10-24T22:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500093",
+    "gameDate": "2025-10-25T00:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500094",
+    "gameDate": "2025-10-25T00:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500095",
+    "gameDate": "2025-10-25T00:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500096",
+    "gameDate": "2025-10-25T00:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500097",
+    "gameDate": "2025-10-25T02:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500098",
+    "gameDate": "2025-10-25T02:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500099",
+    "gameDate": "2025-10-25T02:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500100",
+    "gameDate": "2025-10-25T23:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500101",
+    "gameDate": "2025-10-25T23:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500102",
+    "gameDate": "2025-10-25T23:30:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500103",
+    "gameDate": "2025-10-26T00:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500104",
+    "gameDate": "2025-10-26T01:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500105",
+    "gameDate": "2025-10-26T18:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500106",
+    "gameDate": "2025-10-26T19:30:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500107",
+    "gameDate": "2025-10-26T22:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500108",
+    "gameDate": "2025-10-26T22:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500109",
+    "gameDate": "2025-10-26T22:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500110",
+    "gameDate": "2025-10-26T23:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500111",
+    "gameDate": "2025-10-26T23:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500112",
+    "gameDate": "2025-10-27T01:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500113",
+    "gameDate": "2025-10-27T01:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500007",
+    "gameDate": "2025-10-27T23:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500008",
+    "gameDate": "2025-10-28T01:30:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500114",
+    "gameDate": "2025-10-27T23:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500115",
+    "gameDate": "2025-10-28T00:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500116",
+    "gameDate": "2025-10-28T00:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500117",
+    "gameDate": "2025-10-28T00:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500118",
+    "gameDate": "2025-10-28T00:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500119",
+    "gameDate": "2025-10-28T00:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500120",
+    "gameDate": "2025-10-28T01:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500121",
+    "gameDate": "2025-10-28T02:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500122",
+    "gameDate": "2025-10-28T02:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500123",
+    "gameDate": "2025-10-28T23:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500124",
+    "gameDate": "2025-10-28T23:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500125",
+    "gameDate": "2025-10-29T00:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500126",
+    "gameDate": "2025-10-29T00:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500127",
+    "gameDate": "2025-10-29T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500128",
+    "gameDate": "2025-10-29T23:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500129",
+    "gameDate": "2025-10-29T23:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500130",
+    "gameDate": "2025-10-29T23:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500131",
+    "gameDate": "2025-10-29T22:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500132",
+    "gameDate": "2025-10-30T00:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500133",
+    "gameDate": "2025-10-30T00:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500134",
+    "gameDate": "2025-10-30T01:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500135",
+    "gameDate": "2025-10-30T01:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500136",
+    "gameDate": "2025-10-30T01:30:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500137",
+    "gameDate": "2025-10-30T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500138",
+    "gameDate": "2025-10-30T23:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500139",
+    "gameDate": "2025-10-31T00:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500140",
+    "gameDate": "2025-10-31T00:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500141",
+    "gameDate": "2025-10-31T00:30:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500020",
+    "gameDate": "2025-10-31T23:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500021",
+    "gameDate": "2025-10-31T23:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500022",
+    "gameDate": "2025-10-31T23:30:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500023",
+    "gameDate": "2025-11-01T00:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500024",
+    "gameDate": "2025-11-01T01:30:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500025",
+    "gameDate": "2025-11-01T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500026",
+    "gameDate": "2025-11-01T02:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500027",
+    "gameDate": "2025-11-01T02:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500142",
+    "gameDate": "2025-11-01T21:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500143",
+    "gameDate": "2025-11-01T22:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500144",
+    "gameDate": "2025-11-01T23:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500145",
+    "gameDate": "2025-11-01T23:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500146",
+    "gameDate": "2025-11-02T00:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500147",
+    "gameDate": "2025-11-02T02:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500148",
+    "gameDate": "2025-11-02T20:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500149",
+    "gameDate": "2025-11-02T23:00:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500150",
+    "gameDate": "2025-11-02T23:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500151",
+    "gameDate": "2025-11-02T23:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500152",
+    "gameDate": "2025-11-02T23:00:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500153",
+    "gameDate": "2025-11-03T00:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500154",
+    "gameDate": "2025-11-03T01:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500155",
+    "gameDate": "2025-11-03T02:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500156",
+    "gameDate": "2025-11-04T00:00:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500157",
+    "gameDate": "2025-11-04T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500158",
+    "gameDate": "2025-11-04T00:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500159",
+    "gameDate": "2025-11-04T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500160",
+    "gameDate": "2025-11-04T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500161",
+    "gameDate": "2025-11-04T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500162",
+    "gameDate": "2025-11-04T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500163",
+    "gameDate": "2025-11-04T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500164",
+    "gameDate": "2025-11-04T03:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500165",
+    "gameDate": "2025-11-05T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500166",
+    "gameDate": "2025-11-05T01:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500167",
+    "gameDate": "2025-11-05T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500168",
+    "gameDate": "2025-11-05T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500169",
+    "gameDate": "2025-11-05T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500170",
+    "gameDate": "2025-11-05T04:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500171",
+    "gameDate": "2025-11-06T00:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500172",
+    "gameDate": "2025-11-06T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500173",
+    "gameDate": "2025-11-06T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500174",
+    "gameDate": "2025-11-06T00:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500175",
+    "gameDate": "2025-11-06T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500176",
+    "gameDate": "2025-11-06T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500177",
+    "gameDate": "2025-11-06T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500178",
+    "gameDate": "2025-11-06T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500179",
+    "gameDate": "2025-11-06T03:00:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500180",
+    "gameDate": "2025-11-06T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500181",
+    "gameDate": "2025-11-06T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500182",
+    "gameDate": "2025-11-07T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500028",
+    "gameDate": "2025-11-08T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500029",
+    "gameDate": "2025-11-08T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500030",
+    "gameDate": "2025-11-08T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500031",
+    "gameDate": "2025-11-08T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500032",
+    "gameDate": "2025-11-08T00:30:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500033",
+    "gameDate": "2025-11-08T01:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500034",
+    "gameDate": "2025-11-08T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500035",
+    "gameDate": "2025-11-08T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500036",
+    "gameDate": "2025-11-08T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500037",
+    "gameDate": "2025-11-08T03:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500038",
+    "gameDate": "2025-11-08T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500183",
+    "gameDate": "2025-11-09T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500184",
+    "gameDate": "2025-11-09T00:30:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500185",
+    "gameDate": "2025-11-09T01:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500186",
+    "gameDate": "2025-11-09T01:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500187",
+    "gameDate": "2025-11-09T01:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500188",
+    "gameDate": "2025-11-09T01:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500189",
+    "gameDate": "2025-11-09T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500190",
+    "gameDate": "2025-11-09T03:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500191",
+    "gameDate": "2025-11-09T20:30:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500192",
+    "gameDate": "2025-11-09T23:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500193",
+    "gameDate": "2025-11-09T23:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500194",
+    "gameDate": "2025-11-09T23:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500195",
+    "gameDate": "2025-11-10T00:30:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500196",
+    "gameDate": "2025-11-10T01:30:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500197",
+    "gameDate": "2025-11-10T02:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500198",
+    "gameDate": "2025-11-11T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500199",
+    "gameDate": "2025-11-11T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500200",
+    "gameDate": "2025-11-11T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500201",
+    "gameDate": "2025-11-11T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500202",
+    "gameDate": "2025-11-11T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500203",
+    "gameDate": "2025-11-11T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500204",
+    "gameDate": "2025-11-11T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500205",
+    "gameDate": "2025-11-11T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500206",
+    "gameDate": "2025-11-11T03:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500207",
+    "gameDate": "2025-11-12T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500208",
+    "gameDate": "2025-11-12T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500209",
+    "gameDate": "2025-11-12T01:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500210",
+    "gameDate": "2025-11-12T01:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500211",
+    "gameDate": "2025-11-12T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500212",
+    "gameDate": "2025-11-12T04:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500213",
+    "gameDate": "2025-11-13T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500214",
+    "gameDate": "2025-11-13T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500215",
+    "gameDate": "2025-11-13T00:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500216",
+    "gameDate": "2025-11-13T00:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500217",
+    "gameDate": "2025-11-13T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500218",
+    "gameDate": "2025-11-13T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500219",
+    "gameDate": "2025-11-13T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500220",
+    "gameDate": "2025-11-13T01:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500221",
+    "gameDate": "2025-11-13T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500222",
+    "gameDate": "2025-11-13T02:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500223",
+    "gameDate": "2025-11-13T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500224",
+    "gameDate": "2025-11-13T03:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500225",
+    "gameDate": "2025-11-14T00:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500226",
+    "gameDate": "2025-11-14T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500227",
+    "gameDate": "2025-11-14T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500039",
+    "gameDate": "2025-11-15T00:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500040",
+    "gameDate": "2025-11-15T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500041",
+    "gameDate": "2025-11-15T00:30:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500042",
+    "gameDate": "2025-11-15T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500043",
+    "gameDate": "2025-11-15T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500044",
+    "gameDate": "2025-11-15T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500045",
+    "gameDate": "2025-11-15T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500046",
+    "gameDate": "2025-11-15T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500047",
+    "gameDate": "2025-11-15T02:30:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500228",
+    "gameDate": "2025-11-15T22:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500229",
+    "gameDate": "2025-11-16T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500230",
+    "gameDate": "2025-11-16T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500231",
+    "gameDate": "2025-11-16T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500232",
+    "gameDate": "2025-11-16T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500233",
+    "gameDate": "2025-11-16T20:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500234",
+    "gameDate": "2025-11-16T21:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500235",
+    "gameDate": "2025-11-16T23:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500236",
+    "gameDate": "2025-11-17T00:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500237",
+    "gameDate": "2025-11-17T00:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500238",
+    "gameDate": "2025-11-17T00:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500239",
+    "gameDate": "2025-11-17T01:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500240",
+    "gameDate": "2025-11-17T01:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500241",
+    "gameDate": "2025-11-18T00:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500242",
+    "gameDate": "2025-11-18T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500243",
+    "gameDate": "2025-11-18T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500244",
+    "gameDate": "2025-11-18T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500245",
+    "gameDate": "2025-11-18T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500246",
+    "gameDate": "2025-11-18T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500247",
+    "gameDate": "2025-11-18T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500248",
+    "gameDate": "2025-11-18T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500249",
+    "gameDate": "2025-11-19T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500250",
+    "gameDate": "2025-11-19T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500251",
+    "gameDate": "2025-11-19T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500252",
+    "gameDate": "2025-11-19T01:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500253",
+    "gameDate": "2025-11-19T03:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500254",
+    "gameDate": "2025-11-19T04:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500255",
+    "gameDate": "2025-11-20T00:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500256",
+    "gameDate": "2025-11-20T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500257",
+    "gameDate": "2025-11-20T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500258",
+    "gameDate": "2025-11-20T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500259",
+    "gameDate": "2025-11-20T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500260",
+    "gameDate": "2025-11-20T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500261",
+    "gameDate": "2025-11-20T01:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500262",
+    "gameDate": "2025-11-20T02:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500263",
+    "gameDate": "2025-11-20T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500264",
+    "gameDate": "2025-11-21T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500265",
+    "gameDate": "2025-11-21T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500266",
+    "gameDate": "2025-11-21T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500267",
+    "gameDate": "2025-11-21T01:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500048",
+    "gameDate": "2025-11-22T00:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500049",
+    "gameDate": "2025-11-22T00:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500050",
+    "gameDate": "2025-11-22T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500051",
+    "gameDate": "2025-11-22T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500052",
+    "gameDate": "2025-11-22T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500053",
+    "gameDate": "2025-11-22T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500054",
+    "gameDate": "2025-11-22T02:30:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500055",
+    "gameDate": "2025-11-22T03:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500056",
+    "gameDate": "2025-11-22T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500268",
+    "gameDate": "2025-11-22T18:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500269",
+    "gameDate": "2025-11-22T22:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500270",
+    "gameDate": "2025-11-23T00:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500271",
+    "gameDate": "2025-11-23T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500272",
+    "gameDate": "2025-11-23T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500273",
+    "gameDate": "2025-11-23T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500274",
+    "gameDate": "2025-11-23T03:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500275",
+    "gameDate": "2025-11-23T18:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500276",
+    "gameDate": "2025-11-23T23:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500277",
+    "gameDate": "2025-11-23T23:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500278",
+    "gameDate": "2025-11-23T23:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500279",
+    "gameDate": "2025-11-23T23:00:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500280",
+    "gameDate": "2025-11-24T00:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500281",
+    "gameDate": "2025-11-24T01:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500282",
+    "gameDate": "2025-11-24T01:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500283",
+    "gameDate": "2025-11-25T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500284",
+    "gameDate": "2025-11-25T00:00:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500285",
+    "gameDate": "2025-11-25T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500286",
+    "gameDate": "2025-11-25T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500287",
+    "gameDate": "2025-11-25T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500288",
+    "gameDate": "2025-11-25T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500289",
+    "gameDate": "2025-11-25T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500290",
+    "gameDate": "2025-11-25T02:30:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500291",
+    "gameDate": "2025-11-25T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500292",
+    "gameDate": "2025-11-25T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500057",
+    "gameDate": "2025-11-26T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500058",
+    "gameDate": "2025-11-26T01:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500059",
+    "gameDate": "2025-11-26T04:00:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500060",
+    "gameDate": "2025-11-26T22:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500061",
+    "gameDate": "2025-11-27T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500062",
+    "gameDate": "2025-11-27T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500063",
+    "gameDate": "2025-11-27T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500064",
+    "gameDate": "2025-11-27T00:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500065",
+    "gameDate": "2025-11-27T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500066",
+    "gameDate": "2025-11-27T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500067",
+    "gameDate": "2025-11-27T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500068",
+    "gameDate": "2025-11-27T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500069",
+    "gameDate": "2025-11-29T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500070",
+    "gameDate": "2025-11-29T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500071",
+    "gameDate": "2025-11-29T00:30:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500072",
+    "gameDate": "2025-11-29T00:30:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500073",
+    "gameDate": "2025-11-29T00:30:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500074",
+    "gameDate": "2025-11-29T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500075",
+    "gameDate": "2025-11-29T02:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500076",
+    "gameDate": "2025-11-29T02:30:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500077",
+    "gameDate": "2025-11-29T02:30:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500078",
+    "gameDate": "2025-11-29T03:00:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500079",
+    "gameDate": "2025-11-29T03:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500293",
+    "gameDate": "2025-11-29T22:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500294",
+    "gameDate": "2025-11-29T23:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500295",
+    "gameDate": "2025-11-30T00:30:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500296",
+    "gameDate": "2025-11-30T01:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500297",
+    "gameDate": "2025-11-30T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500298",
+    "gameDate": "2025-11-30T01:30:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500299",
+    "gameDate": "2025-11-30T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500300",
+    "gameDate": "2025-11-30T03:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500301",
+    "gameDate": "2025-11-30T20:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500302",
+    "gameDate": "2025-11-30T23:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500303",
+    "gameDate": "2025-11-30T23:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500304",
+    "gameDate": "2025-11-30T23:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500305",
+    "gameDate": "2025-11-30T23:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500306",
+    "gameDate": "2025-12-01T00:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500307",
+    "gameDate": "2025-12-01T02:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500308",
+    "gameDate": "2025-12-01T02:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500309",
+    "gameDate": "2025-12-02T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500310",
+    "gameDate": "2025-12-02T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500311",
+    "gameDate": "2025-12-02T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500312",
+    "gameDate": "2025-12-02T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500313",
+    "gameDate": "2025-12-02T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500314",
+    "gameDate": "2025-12-02T00:30:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500315",
+    "gameDate": "2025-12-02T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500316",
+    "gameDate": "2025-12-02T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500317",
+    "gameDate": "2025-12-02T03:00:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500318",
+    "gameDate": "2025-12-03T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500319",
+    "gameDate": "2025-12-03T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500320",
+    "gameDate": "2025-12-03T01:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500321",
+    "gameDate": "2025-12-03T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500322",
+    "gameDate": "2025-12-03T01:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500323",
+    "gameDate": "2025-12-03T04:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500324",
+    "gameDate": "2025-12-04T00:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500325",
+    "gameDate": "2025-12-04T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500326",
+    "gameDate": "2025-12-04T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500327",
+    "gameDate": "2025-12-04T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500328",
+    "gameDate": "2025-12-04T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500329",
+    "gameDate": "2025-12-04T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500330",
+    "gameDate": "2025-12-04T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500331",
+    "gameDate": "2025-12-04T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500332",
+    "gameDate": "2025-12-04T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500333",
+    "gameDate": "2025-12-05T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500334",
+    "gameDate": "2025-12-05T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500335",
+    "gameDate": "2025-12-05T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500336",
+    "gameDate": "2025-12-05T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500337",
+    "gameDate": "2025-12-05T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500338",
+    "gameDate": "2025-12-06T00:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500339",
+    "gameDate": "2025-12-06T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500340",
+    "gameDate": "2025-12-06T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500341",
+    "gameDate": "2025-12-06T00:30:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500342",
+    "gameDate": "2025-12-06T00:30:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500343",
+    "gameDate": "2025-12-06T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500344",
+    "gameDate": "2025-12-06T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500345",
+    "gameDate": "2025-12-06T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500346",
+    "gameDate": "2025-12-06T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500347",
+    "gameDate": "2025-12-06T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500348",
+    "gameDate": "2025-12-06T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500349",
+    "gameDate": "2025-12-06T02:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500350",
+    "gameDate": "2025-12-06T22:00:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500351",
+    "gameDate": "2025-12-07T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500352",
+    "gameDate": "2025-12-07T00:30:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500353",
+    "gameDate": "2025-12-07T00:30:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500354",
+    "gameDate": "2025-12-07T01:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500355",
+    "gameDate": "2025-12-07T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500356",
+    "gameDate": "2025-12-07T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500357",
+    "gameDate": "2025-12-07T17:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500358",
+    "gameDate": "2025-12-07T20:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500359",
+    "gameDate": "2025-12-07T23:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500360",
+    "gameDate": "2025-12-07T23:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500361",
+    "gameDate": "2025-12-08T00:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500362",
+    "gameDate": "2025-12-08T00:30:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500363",
+    "gameDate": "2025-12-08T01:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500364",
+    "gameDate": "2025-12-09T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500365",
+    "gameDate": "2025-12-09T00:30:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500366",
+    "gameDate": "2025-12-09T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501201",
+    "gameDate": "2025-12-09T23:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501202",
+    "gameDate": "2025-12-10T01:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501203",
+    "gameDate": "2025-12-11T00:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501204",
+    "gameDate": "2025-12-11T03:00:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501205",
+    "gameDate": "2025-12-12T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501206",
+    "gameDate": "2025-12-12T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501207",
+    "gameDate": "2025-12-12T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501208",
+    "gameDate": "2025-12-12T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501209",
+    "gameDate": "2025-12-13T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501210",
+    "gameDate": "2025-12-13T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501211",
+    "gameDate": "2025-12-13T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501212",
+    "gameDate": "2025-12-13T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501213",
+    "gameDate": "2025-12-13T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501214",
+    "gameDate": "2025-12-13T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501215",
+    "gameDate": "2025-12-13T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501229",
+    "gameDate": "2025-12-13T22:30:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501230",
+    "gameDate": "2025-12-14T02:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501216",
+    "gameDate": "2025-12-14T20:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501217",
+    "gameDate": "2025-12-14T23:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501218",
+    "gameDate": "2025-12-14T20:30:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501219",
+    "gameDate": "2025-12-14T23:00:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501220",
+    "gameDate": "2025-12-15T00:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501221",
+    "gameDate": "2025-12-15T02:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501223",
+    "gameDate": "2025-12-15T00:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501228",
+    "gameDate": "2025-12-15T01:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501222",
+    "gameDate": "2025-12-16T00:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501224",
+    "gameDate": "2025-12-16T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501225",
+    "gameDate": "2025-12-16T02:30:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501226",
+    "gameDate": "2025-12-16T03:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022501227",
+    "gameDate": "2025-12-16T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500367",
+    "gameDate": "2025-12-18T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500368",
+    "gameDate": "2025-12-18T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500369",
+    "gameDate": "2025-12-19T01:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500370",
+    "gameDate": "2025-12-19T01:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500371",
+    "gameDate": "2025-12-19T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500372",
+    "gameDate": "2025-12-19T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500373",
+    "gameDate": "2025-12-19T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500374",
+    "gameDate": "2025-12-19T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500375",
+    "gameDate": "2025-12-19T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500376",
+    "gameDate": "2025-12-19T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500377",
+    "gameDate": "2025-12-19T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500378",
+    "gameDate": "2025-12-19T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500379",
+    "gameDate": "2025-12-19T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500380",
+    "gameDate": "2025-12-19T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500381",
+    "gameDate": "2025-12-20T00:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500382",
+    "gameDate": "2025-12-20T00:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500383",
+    "gameDate": "2025-12-20T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500384",
+    "gameDate": "2025-12-20T00:30:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500385",
+    "gameDate": "2025-12-20T02:30:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500386",
+    "gameDate": "2025-12-20T22:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500387",
+    "gameDate": "2025-12-21T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500388",
+    "gameDate": "2025-12-21T00:00:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500389",
+    "gameDate": "2025-12-21T00:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500390",
+    "gameDate": "2025-12-21T00:30:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500391",
+    "gameDate": "2025-12-21T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500392",
+    "gameDate": "2025-12-21T01:30:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500393",
+    "gameDate": "2025-12-21T02:30:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500394",
+    "gameDate": "2025-12-21T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500395",
+    "gameDate": "2025-12-21T03:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500396",
+    "gameDate": "2025-12-21T20:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500397",
+    "gameDate": "2025-12-21T23:00:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500398",
+    "gameDate": "2025-12-21T23:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500399",
+    "gameDate": "2025-12-22T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500400",
+    "gameDate": "2025-12-22T00:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500401",
+    "gameDate": "2025-12-22T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500402",
+    "gameDate": "2025-12-23T00:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500403",
+    "gameDate": "2025-12-23T00:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500404",
+    "gameDate": "2025-12-23T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500405",
+    "gameDate": "2025-12-23T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500406",
+    "gameDate": "2025-12-23T02:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500407",
+    "gameDate": "2025-12-23T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500408",
+    "gameDate": "2025-12-23T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500409",
+    "gameDate": "2025-12-24T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500410",
+    "gameDate": "2025-12-24T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500411",
+    "gameDate": "2025-12-24T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500412",
+    "gameDate": "2025-12-24T00:30:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500413",
+    "gameDate": "2025-12-24T00:30:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500414",
+    "gameDate": "2025-12-24T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500415",
+    "gameDate": "2025-12-24T01:00:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500416",
+    "gameDate": "2025-12-24T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500417",
+    "gameDate": "2025-12-24T01:30:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500418",
+    "gameDate": "2025-12-24T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500419",
+    "gameDate": "2025-12-24T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500420",
+    "gameDate": "2025-12-24T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500421",
+    "gameDate": "2025-12-24T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500422",
+    "gameDate": "2025-12-24T03:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500009",
+    "gameDate": "2025-12-25T17:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500010",
+    "gameDate": "2025-12-25T19:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500011",
+    "gameDate": "2025-12-25T22:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500012",
+    "gameDate": "2025-12-26T01:00:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500013",
+    "gameDate": "2025-12-26T03:30:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500423",
+    "gameDate": "2025-12-27T00:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500424",
+    "gameDate": "2025-12-27T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500425",
+    "gameDate": "2025-12-27T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500426",
+    "gameDate": "2025-12-27T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500427",
+    "gameDate": "2025-12-27T00:30:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500428",
+    "gameDate": "2025-12-27T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500429",
+    "gameDate": "2025-12-27T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500430",
+    "gameDate": "2025-12-27T02:30:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500431",
+    "gameDate": "2025-12-27T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500432",
+    "gameDate": "2025-12-27T22:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500433",
+    "gameDate": "2025-12-28T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500434",
+    "gameDate": "2025-12-28T00:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500435",
+    "gameDate": "2025-12-28T01:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500436",
+    "gameDate": "2025-12-28T01:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500437",
+    "gameDate": "2025-12-28T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500438",
+    "gameDate": "2025-12-28T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500439",
+    "gameDate": "2025-12-28T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500440",
+    "gameDate": "2025-12-28T01:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500441",
+    "gameDate": "2025-12-28T20:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500442",
+    "gameDate": "2025-12-28T20:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500443",
+    "gameDate": "2025-12-28T23:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500444",
+    "gameDate": "2025-12-28T23:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500445",
+    "gameDate": "2025-12-29T02:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500446",
+    "gameDate": "2025-12-29T02:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500447",
+    "gameDate": "2025-12-30T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500448",
+    "gameDate": "2025-12-30T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500449",
+    "gameDate": "2025-12-30T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500450",
+    "gameDate": "2025-12-30T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500451",
+    "gameDate": "2025-12-30T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500452",
+    "gameDate": "2025-12-30T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500453",
+    "gameDate": "2025-12-30T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500454",
+    "gameDate": "2025-12-30T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500455",
+    "gameDate": "2025-12-30T01:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500456",
+    "gameDate": "2025-12-30T01:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500457",
+    "gameDate": "2025-12-30T03:30:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500458",
+    "gameDate": "2025-12-31T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500459",
+    "gameDate": "2025-12-31T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500460",
+    "gameDate": "2025-12-31T03:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500461",
+    "gameDate": "2025-12-31T04:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500462",
+    "gameDate": "2025-12-31T18:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500463",
+    "gameDate": "2025-12-31T20:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500464",
+    "gameDate": "2025-12-31T20:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500465",
+    "gameDate": "2025-12-31T20:30:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500466",
+    "gameDate": "2026-01-01T00:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500467",
+    "gameDate": "2026-01-01T00:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500468",
+    "gameDate": "2026-01-01T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500469",
+    "gameDate": "2026-01-01T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500470",
+    "gameDate": "2026-01-01T01:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500471",
+    "gameDate": "2026-01-01T23:00:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500472",
+    "gameDate": "2026-01-02T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500473",
+    "gameDate": "2026-01-02T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500474",
+    "gameDate": "2026-01-02T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500475",
+    "gameDate": "2026-01-02T03:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500476",
+    "gameDate": "2026-01-03T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500477",
+    "gameDate": "2026-01-03T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500478",
+    "gameDate": "2026-01-03T00:30:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500479",
+    "gameDate": "2026-01-03T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500480",
+    "gameDate": "2026-01-03T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500481",
+    "gameDate": "2026-01-03T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500482",
+    "gameDate": "2026-01-03T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500483",
+    "gameDate": "2026-01-03T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500484",
+    "gameDate": "2026-01-03T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500485",
+    "gameDate": "2026-01-03T03:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500486",
+    "gameDate": "2026-01-03T22:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500487",
+    "gameDate": "2026-01-04T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500488",
+    "gameDate": "2026-01-04T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500489",
+    "gameDate": "2026-01-04T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500490",
+    "gameDate": "2026-01-04T01:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "POR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500491",
+    "gameDate": "2026-01-04T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500492",
+    "gameDate": "2026-01-04T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500493",
+    "gameDate": "2026-01-04T03:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500494",
+    "gameDate": "2026-01-04T19:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "DET",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500495",
+    "gameDate": "2026-01-04T20:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500496",
+    "gameDate": "2026-01-04T20:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500497",
+    "gameDate": "2026-01-04T23:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500498",
+    "gameDate": "2026-01-04T23:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500499",
+    "gameDate": "2026-01-05T01:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500500",
+    "gameDate": "2026-01-05T02:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500501",
+    "gameDate": "2026-01-05T02:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "MEM",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500502",
+    "gameDate": "2026-01-06T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500503",
+    "gameDate": "2026-01-06T00:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500504",
+    "gameDate": "2026-01-06T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500505",
+    "gameDate": "2026-01-06T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500506",
+    "gameDate": "2026-01-06T01:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500507",
+    "gameDate": "2026-01-06T01:30:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500508",
+    "gameDate": "2026-01-06T03:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "GSW",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500509",
+    "gameDate": "2026-01-06T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500510",
+    "gameDate": "2026-01-07T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500511",
+    "gameDate": "2026-01-07T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500512",
+    "gameDate": "2026-01-07T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500513",
+    "gameDate": "2026-01-07T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500514",
+    "gameDate": "2026-01-07T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500515",
+    "gameDate": "2026-01-07T04:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500516",
+    "gameDate": "2026-01-08T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500517",
+    "gameDate": "2026-01-08T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "CHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500518",
+    "gameDate": "2026-01-08T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500519",
+    "gameDate": "2026-01-08T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500520",
+    "gameDate": "2026-01-08T00:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "DEN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500521",
+    "gameDate": "2026-01-08T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "ORL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500522",
+    "gameDate": "2026-01-08T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500523",
+    "gameDate": "2026-01-08T02:30:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500524",
+    "gameDate": "2026-01-08T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "PHX",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500525",
+    "gameDate": "2026-01-08T01:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500526",
+    "gameDate": "2026-01-08T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500527",
+    "gameDate": "2026-01-08T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500528",
+    "gameDate": "2026-01-09T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "IND",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500530",
+    "gameDate": "2026-01-09T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "CLE",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500531",
+    "gameDate": "2026-01-09T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500532",
+    "gameDate": "2026-01-10T00:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "TOR",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500533",
+    "gameDate": "2026-01-10T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500534",
+    "gameDate": "2026-01-10T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500535",
+    "gameDate": "2026-01-10T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500536",
+    "gameDate": "2026-01-10T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "OKC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500537",
+    "gameDate": "2026-01-10T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500538",
+    "gameDate": "2026-01-10T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500539",
+    "gameDate": "2026-01-10T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "SAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500540",
+    "gameDate": "2026-01-10T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500541",
+    "gameDate": "2026-01-10T03:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500542",
+    "gameDate": "2026-01-10T18:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "MIN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500543",
+    "gameDate": "2026-01-11T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500544",
+    "gameDate": "2026-01-11T00:30:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "LAC",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500545",
+    "gameDate": "2026-01-11T01:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500546",
+    "gameDate": "2026-01-11T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "DAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500547",
+    "gameDate": "2026-01-11T02:30:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500548",
+    "gameDate": "2026-01-11T20:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "NOP",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500549",
+    "gameDate": "2026-01-11T20:30:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500550",
+    "gameDate": "2026-01-11T23:00:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500551",
+    "gameDate": "2026-01-11T23:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "NYK",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500552",
+    "gameDate": "2026-01-12T00:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "SAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500553",
+    "gameDate": "2026-01-12T00:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "MIA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500554",
+    "gameDate": "2026-01-12T01:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "MIL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500555",
+    "gameDate": "2026-01-12T01:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "WAS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500556",
+    "gameDate": "2026-01-12T01:30:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "ATL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500557",
+    "gameDate": "2026-01-12T02:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "HOU",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500558",
+    "gameDate": "2026-01-13T00:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "UTA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500559",
+    "gameDate": "2026-01-13T00:30:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "BOS",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500560",
+    "gameDate": "2026-01-13T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "PHI",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500561",
+    "gameDate": "2026-01-13T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "BKN",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500562",
+    "gameDate": "2026-01-13T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "LAL",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500563",
+    "gameDate": "2026-01-13T03:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "CHA",
+    "gameStatus": 3
+  },
+  {
+    "gameId": "0022500564",
+    "gameDate": "2026-01-14T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500565",
+    "gameDate": "2026-01-14T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500566",
+    "gameDate": "2026-01-14T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500567",
+    "gameDate": "2026-01-14T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500568",
+    "gameDate": "2026-01-14T01:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500569",
+    "gameDate": "2026-01-14T03:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500570",
+    "gameDate": "2026-01-14T04:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500571",
+    "gameDate": "2026-01-15T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500572",
+    "gameDate": "2026-01-15T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500573",
+    "gameDate": "2026-01-15T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500574",
+    "gameDate": "2026-01-15T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500575",
+    "gameDate": "2026-01-15T02:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500576",
+    "gameDate": "2026-01-15T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500577",
+    "gameDate": "2026-01-15T03:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500578",
+    "gameDate": "2026-01-15T19:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500579",
+    "gameDate": "2026-01-16T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500580",
+    "gameDate": "2026-01-16T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500581",
+    "gameDate": "2026-01-16T00:30:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500582",
+    "gameDate": "2026-01-16T01:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500583",
+    "gameDate": "2026-01-16T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500584",
+    "gameDate": "2026-01-16T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500585",
+    "gameDate": "2026-01-16T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500586",
+    "gameDate": "2026-01-16T03:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500587",
+    "gameDate": "2026-01-17T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500588",
+    "gameDate": "2026-01-17T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500589",
+    "gameDate": "2026-01-17T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500590",
+    "gameDate": "2026-01-17T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500591",
+    "gameDate": "2026-01-17T02:30:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500592",
+    "gameDate": "2026-01-17T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500593",
+    "gameDate": "2026-01-17T22:00:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500594",
+    "gameDate": "2026-01-18T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500595",
+    "gameDate": "2026-01-18T00:30:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500596",
+    "gameDate": "2026-01-18T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500597",
+    "gameDate": "2026-01-18T01:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500598",
+    "gameDate": "2026-01-18T01:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500599",
+    "gameDate": "2026-01-18T01:30:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500600",
+    "gameDate": "2026-01-18T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500601",
+    "gameDate": "2026-01-18T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500602",
+    "gameDate": "2026-01-18T17:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500603",
+    "gameDate": "2026-01-19T00:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500604",
+    "gameDate": "2026-01-19T00:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500605",
+    "gameDate": "2026-01-19T01:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500606",
+    "gameDate": "2026-01-19T02:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500607",
+    "gameDate": "2026-01-19T02:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500014",
+    "gameDate": "2026-01-19T18:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500015",
+    "gameDate": "2026-01-19T19:30:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500016",
+    "gameDate": "2026-01-19T22:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500017",
+    "gameDate": "2026-01-20T01:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500608",
+    "gameDate": "2026-01-19T20:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500609",
+    "gameDate": "2026-01-20T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500610",
+    "gameDate": "2026-01-20T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500611",
+    "gameDate": "2026-01-19T22:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500612",
+    "gameDate": "2026-01-20T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500613",
+    "gameDate": "2026-01-21T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500614",
+    "gameDate": "2026-01-21T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500615",
+    "gameDate": "2026-01-21T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500616",
+    "gameDate": "2026-01-21T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500617",
+    "gameDate": "2026-01-21T03:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500618",
+    "gameDate": "2026-01-21T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500619",
+    "gameDate": "2026-01-21T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500620",
+    "gameDate": "2026-01-22T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500621",
+    "gameDate": "2026-01-22T00:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500622",
+    "gameDate": "2026-01-22T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500623",
+    "gameDate": "2026-01-22T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500624",
+    "gameDate": "2026-01-22T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500625",
+    "gameDate": "2026-01-22T02:30:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500626",
+    "gameDate": "2026-01-22T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500627",
+    "gameDate": "2026-01-23T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500628",
+    "gameDate": "2026-01-23T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500629",
+    "gameDate": "2026-01-23T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500630",
+    "gameDate": "2026-01-23T00:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500631",
+    "gameDate": "2026-01-23T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500632",
+    "gameDate": "2026-01-23T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500633",
+    "gameDate": "2026-01-23T03:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500634",
+    "gameDate": "2026-01-23T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500635",
+    "gameDate": "2026-01-24T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500636",
+    "gameDate": "2026-01-24T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500637",
+    "gameDate": "2026-01-24T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500638",
+    "gameDate": "2026-01-24T00:30:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500639",
+    "gameDate": "2026-01-24T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500640",
+    "gameDate": "2026-01-24T02:30:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500641",
+    "gameDate": "2026-01-24T01:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500642",
+    "gameDate": "2026-01-24T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500643",
+    "gameDate": "2026-01-24T20:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500644",
+    "gameDate": "2026-01-24T22:30:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500645",
+    "gameDate": "2026-01-24T23:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500646",
+    "gameDate": "2026-01-25T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500647",
+    "gameDate": "2026-01-25T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500648",
+    "gameDate": "2026-01-25T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500649",
+    "gameDate": "2026-01-25T02:30:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500650",
+    "gameDate": "2026-01-25T20:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500651",
+    "gameDate": "2026-01-25T20:30:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500652",
+    "gameDate": "2026-01-26T00:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500653",
+    "gameDate": "2026-01-26T00:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500654",
+    "gameDate": "2026-01-26T00:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500655",
+    "gameDate": "2026-01-26T01:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500656",
+    "gameDate": "2026-01-26T02:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500657",
+    "gameDate": "2026-01-27T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500658",
+    "gameDate": "2026-01-27T00:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500659",
+    "gameDate": "2026-01-27T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500660",
+    "gameDate": "2026-01-27T01:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500661",
+    "gameDate": "2026-01-27T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500662",
+    "gameDate": "2026-01-27T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500663",
+    "gameDate": "2026-01-27T02:30:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500664",
+    "gameDate": "2026-01-28T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500665",
+    "gameDate": "2026-01-28T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500666",
+    "gameDate": "2026-01-28T01:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500667",
+    "gameDate": "2026-01-28T01:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500668",
+    "gameDate": "2026-01-28T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500669",
+    "gameDate": "2026-01-28T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500670",
+    "gameDate": "2026-01-28T03:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500671",
+    "gameDate": "2026-01-29T00:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500672",
+    "gameDate": "2026-01-29T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500673",
+    "gameDate": "2026-01-29T00:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500674",
+    "gameDate": "2026-01-29T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500675",
+    "gameDate": "2026-01-29T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500676",
+    "gameDate": "2026-01-29T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500677",
+    "gameDate": "2026-01-29T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500678",
+    "gameDate": "2026-01-29T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500679",
+    "gameDate": "2026-01-29T02:30:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500529",
+    "gameDate": "2026-01-30T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500680",
+    "gameDate": "2026-01-30T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500681",
+    "gameDate": "2026-01-30T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500682",
+    "gameDate": "2026-01-30T01:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500683",
+    "gameDate": "2026-01-30T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500684",
+    "gameDate": "2026-01-30T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500685",
+    "gameDate": "2026-01-30T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500686",
+    "gameDate": "2026-01-30T02:30:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500687",
+    "gameDate": "2026-01-31T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500688",
+    "gameDate": "2026-01-31T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500689",
+    "gameDate": "2026-01-31T00:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500690",
+    "gameDate": "2026-01-31T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500691",
+    "gameDate": "2026-01-31T00:30:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500693",
+    "gameDate": "2026-01-31T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500694",
+    "gameDate": "2026-01-31T02:30:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500695",
+    "gameDate": "2026-01-31T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500696",
+    "gameDate": "2026-01-31T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500692",
+    "gameDate": "2026-02-01T01:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500697",
+    "gameDate": "2026-01-31T20:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500698",
+    "gameDate": "2026-02-01T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500699",
+    "gameDate": "2026-02-01T00:30:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500700",
+    "gameDate": "2026-02-01T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500701",
+    "gameDate": "2026-02-01T01:30:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500702",
+    "gameDate": "2026-02-01T20:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500703",
+    "gameDate": "2026-02-01T21:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500704",
+    "gameDate": "2026-02-01T23:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500705",
+    "gameDate": "2026-02-01T23:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500706",
+    "gameDate": "2026-02-01T23:00:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500707",
+    "gameDate": "2026-02-01T23:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500708",
+    "gameDate": "2026-02-02T00:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500709",
+    "gameDate": "2026-02-02T01:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500710",
+    "gameDate": "2026-02-02T02:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500711",
+    "gameDate": "2026-02-02T02:30:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500712",
+    "gameDate": "2026-02-03T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500713",
+    "gameDate": "2026-02-03T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500714",
+    "gameDate": "2026-02-03T00:30:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500715",
+    "gameDate": "2026-02-03T03:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500716",
+    "gameDate": "2026-02-04T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500717",
+    "gameDate": "2026-02-04T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500718",
+    "gameDate": "2026-02-04T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500719",
+    "gameDate": "2026-02-04T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500720",
+    "gameDate": "2026-02-04T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500721",
+    "gameDate": "2026-02-04T01:00:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500722",
+    "gameDate": "2026-02-04T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500723",
+    "gameDate": "2026-02-04T01:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500724",
+    "gameDate": "2026-02-04T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500725",
+    "gameDate": "2026-02-04T04:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500726",
+    "gameDate": "2026-02-05T00:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500727",
+    "gameDate": "2026-02-05T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500728",
+    "gameDate": "2026-02-05T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500729",
+    "gameDate": "2026-02-05T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500730",
+    "gameDate": "2026-02-05T02:30:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500731",
+    "gameDate": "2026-02-05T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500732",
+    "gameDate": "2026-02-05T03:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500733",
+    "gameDate": "2026-02-06T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500734",
+    "gameDate": "2026-02-06T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500735",
+    "gameDate": "2026-02-06T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500736",
+    "gameDate": "2026-02-06T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500737",
+    "gameDate": "2026-02-06T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500738",
+    "gameDate": "2026-02-06T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500739",
+    "gameDate": "2026-02-06T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500740",
+    "gameDate": "2026-02-06T03:00:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500741",
+    "gameDate": "2026-02-07T00:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500742",
+    "gameDate": "2026-02-07T00:30:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500743",
+    "gameDate": "2026-02-07T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500744",
+    "gameDate": "2026-02-07T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500745",
+    "gameDate": "2026-02-07T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500746",
+    "gameDate": "2026-02-07T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500747",
+    "gameDate": "2026-02-07T20:00:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500748",
+    "gameDate": "2026-02-07T20:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500749",
+    "gameDate": "2026-02-07T23:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500750",
+    "gameDate": "2026-02-08T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500751",
+    "gameDate": "2026-02-08T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500752",
+    "gameDate": "2026-02-08T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500753",
+    "gameDate": "2026-02-08T01:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500754",
+    "gameDate": "2026-02-08T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500755",
+    "gameDate": "2026-02-08T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500756",
+    "gameDate": "2026-02-08T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500757",
+    "gameDate": "2026-02-08T17:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500758",
+    "gameDate": "2026-02-08T19:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500759",
+    "gameDate": "2026-02-08T20:00:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500760",
+    "gameDate": "2026-02-08T20:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500761",
+    "gameDate": "2026-02-10T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500762",
+    "gameDate": "2026-02-10T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500763",
+    "gameDate": "2026-02-10T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500764",
+    "gameDate": "2026-02-10T00:30:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500765",
+    "gameDate": "2026-02-10T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500766",
+    "gameDate": "2026-02-10T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500767",
+    "gameDate": "2026-02-10T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500768",
+    "gameDate": "2026-02-10T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500769",
+    "gameDate": "2026-02-10T03:00:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500770",
+    "gameDate": "2026-02-10T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500771",
+    "gameDate": "2026-02-11T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500772",
+    "gameDate": "2026-02-11T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500773",
+    "gameDate": "2026-02-11T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500774",
+    "gameDate": "2026-02-11T03:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500775",
+    "gameDate": "2026-02-12T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500776",
+    "gameDate": "2026-02-12T00:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500777",
+    "gameDate": "2026-02-12T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500778",
+    "gameDate": "2026-02-12T00:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500779",
+    "gameDate": "2026-02-12T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500780",
+    "gameDate": "2026-02-12T00:30:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500781",
+    "gameDate": "2026-02-12T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500782",
+    "gameDate": "2026-02-12T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500783",
+    "gameDate": "2026-02-12T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500784",
+    "gameDate": "2026-02-12T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500785",
+    "gameDate": "2026-02-12T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500786",
+    "gameDate": "2026-02-12T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500787",
+    "gameDate": "2026-02-12T03:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500788",
+    "gameDate": "2026-02-12T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500789",
+    "gameDate": "2026-02-13T00:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500790",
+    "gameDate": "2026-02-13T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500791",
+    "gameDate": "2026-02-13T03:00:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500792",
+    "gameDate": "2026-02-20T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500793",
+    "gameDate": "2026-02-20T00:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500794",
+    "gameDate": "2026-02-20T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500795",
+    "gameDate": "2026-02-20T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500796",
+    "gameDate": "2026-02-20T00:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500797",
+    "gameDate": "2026-02-20T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500798",
+    "gameDate": "2026-02-20T01:30:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500799",
+    "gameDate": "2026-02-20T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500800",
+    "gameDate": "2026-02-20T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500801",
+    "gameDate": "2026-02-20T03:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500802",
+    "gameDate": "2026-02-21T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500803",
+    "gameDate": "2026-02-21T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500804",
+    "gameDate": "2026-02-21T00:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500805",
+    "gameDate": "2026-02-21T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500806",
+    "gameDate": "2026-02-21T00:30:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500807",
+    "gameDate": "2026-02-21T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500808",
+    "gameDate": "2026-02-21T01:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500809",
+    "gameDate": "2026-02-21T03:00:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500810",
+    "gameDate": "2026-02-21T03:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500811",
+    "gameDate": "2026-02-21T22:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500812",
+    "gameDate": "2026-02-22T00:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500813",
+    "gameDate": "2026-02-22T01:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500814",
+    "gameDate": "2026-02-22T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500815",
+    "gameDate": "2026-02-22T01:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500816",
+    "gameDate": "2026-02-22T01:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500817",
+    "gameDate": "2026-02-22T18:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500818",
+    "gameDate": "2026-02-22T20:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500819",
+    "gameDate": "2026-02-22T20:30:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500820",
+    "gameDate": "2026-02-22T20:30:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500821",
+    "gameDate": "2026-02-22T22:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500822",
+    "gameDate": "2026-02-22T23:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500823",
+    "gameDate": "2026-02-22T23:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500824",
+    "gameDate": "2026-02-23T00:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500825",
+    "gameDate": "2026-02-23T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500826",
+    "gameDate": "2026-02-23T01:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500827",
+    "gameDate": "2026-02-23T02:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500828",
+    "gameDate": "2026-02-24T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500829",
+    "gameDate": "2026-02-24T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500830",
+    "gameDate": "2026-02-24T02:30:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500831",
+    "gameDate": "2026-02-25T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500832",
+    "gameDate": "2026-02-25T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500833",
+    "gameDate": "2026-02-25T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500834",
+    "gameDate": "2026-02-25T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500835",
+    "gameDate": "2026-02-25T01:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500836",
+    "gameDate": "2026-02-25T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500837",
+    "gameDate": "2026-02-25T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500838",
+    "gameDate": "2026-02-25T01:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500839",
+    "gameDate": "2026-02-25T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500840",
+    "gameDate": "2026-02-25T03:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500841",
+    "gameDate": "2026-02-25T04:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500842",
+    "gameDate": "2026-02-26T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500843",
+    "gameDate": "2026-02-26T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500844",
+    "gameDate": "2026-02-26T00:30:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500845",
+    "gameDate": "2026-02-26T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500846",
+    "gameDate": "2026-02-26T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500847",
+    "gameDate": "2026-02-26T03:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500848",
+    "gameDate": "2026-02-27T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500849",
+    "gameDate": "2026-02-27T00:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500850",
+    "gameDate": "2026-02-27T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500851",
+    "gameDate": "2026-02-27T00:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500852",
+    "gameDate": "2026-02-27T00:30:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500853",
+    "gameDate": "2026-02-27T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500854",
+    "gameDate": "2026-02-27T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500855",
+    "gameDate": "2026-02-27T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500856",
+    "gameDate": "2026-02-27T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500857",
+    "gameDate": "2026-02-27T03:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500858",
+    "gameDate": "2026-02-28T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500859",
+    "gameDate": "2026-02-28T00:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500860",
+    "gameDate": "2026-02-28T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500861",
+    "gameDate": "2026-02-28T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500862",
+    "gameDate": "2026-02-28T02:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500863",
+    "gameDate": "2026-02-28T18:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500864",
+    "gameDate": "2026-02-28T20:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500865",
+    "gameDate": "2026-03-01T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500866",
+    "gameDate": "2026-03-01T01:30:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500867",
+    "gameDate": "2026-03-01T02:30:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500868",
+    "gameDate": "2026-03-01T18:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500869",
+    "gameDate": "2026-03-01T20:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500870",
+    "gameDate": "2026-03-01T20:30:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500871",
+    "gameDate": "2026-03-01T20:30:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500872",
+    "gameDate": "2026-03-01T22:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500873",
+    "gameDate": "2026-03-01T23:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500874",
+    "gameDate": "2026-03-01T23:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500875",
+    "gameDate": "2026-03-01T23:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500876",
+    "gameDate": "2026-03-02T01:00:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500877",
+    "gameDate": "2026-03-02T02:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500878",
+    "gameDate": "2026-03-02T02:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500879",
+    "gameDate": "2026-03-03T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500880",
+    "gameDate": "2026-03-03T00:30:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500881",
+    "gameDate": "2026-03-03T02:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500882",
+    "gameDate": "2026-03-03T03:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500883",
+    "gameDate": "2026-03-04T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500884",
+    "gameDate": "2026-03-04T00:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500885",
+    "gameDate": "2026-03-04T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500886",
+    "gameDate": "2026-03-04T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500887",
+    "gameDate": "2026-03-04T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500888",
+    "gameDate": "2026-03-04T01:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500889",
+    "gameDate": "2026-03-04T01:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500890",
+    "gameDate": "2026-03-04T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500891",
+    "gameDate": "2026-03-04T03:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500892",
+    "gameDate": "2026-03-04T04:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500893",
+    "gameDate": "2026-03-05T00:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500894",
+    "gameDate": "2026-03-05T00:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500895",
+    "gameDate": "2026-03-05T00:30:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500896",
+    "gameDate": "2026-03-05T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500897",
+    "gameDate": "2026-03-05T02:30:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500898",
+    "gameDate": "2026-03-05T03:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500899",
+    "gameDate": "2026-03-06T00:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500900",
+    "gameDate": "2026-03-06T00:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500901",
+    "gameDate": "2026-03-06T00:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500902",
+    "gameDate": "2026-03-06T00:30:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500903",
+    "gameDate": "2026-03-06T01:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500904",
+    "gameDate": "2026-03-06T01:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500905",
+    "gameDate": "2026-03-06T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500906",
+    "gameDate": "2026-03-06T03:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500907",
+    "gameDate": "2026-03-06T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500908",
+    "gameDate": "2026-03-07T00:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500909",
+    "gameDate": "2026-03-07T00:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500910",
+    "gameDate": "2026-03-07T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500911",
+    "gameDate": "2026-03-07T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500912",
+    "gameDate": "2026-03-07T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500913",
+    "gameDate": "2026-03-07T02:30:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500914",
+    "gameDate": "2026-03-07T03:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500915",
+    "gameDate": "2026-03-07T20:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500916",
+    "gameDate": "2026-03-07T23:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500917",
+    "gameDate": "2026-03-08T00:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500918",
+    "gameDate": "2026-03-08T01:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500919",
+    "gameDate": "2026-03-08T01:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500920",
+    "gameDate": "2026-03-08T01:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500921",
+    "gameDate": "2026-03-08T17:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500922",
+    "gameDate": "2026-03-08T19:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500923",
+    "gameDate": "2026-03-08T22:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500924",
+    "gameDate": "2026-03-08T22:00:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500925",
+    "gameDate": "2026-03-08T23:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500926",
+    "gameDate": "2026-03-09T00:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500927",
+    "gameDate": "2026-03-09T00:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500928",
+    "gameDate": "2026-03-09T01:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500929",
+    "gameDate": "2026-03-09T01:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500930",
+    "gameDate": "2026-03-09T01:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500931",
+    "gameDate": "2026-03-09T23:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500932",
+    "gameDate": "2026-03-09T23:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500933",
+    "gameDate": "2026-03-09T23:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500934",
+    "gameDate": "2026-03-10T01:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500935",
+    "gameDate": "2026-03-10T02:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500936",
+    "gameDate": "2026-03-10T23:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500937",
+    "gameDate": "2026-03-10T23:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500938",
+    "gameDate": "2026-03-10T23:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500939",
+    "gameDate": "2026-03-11T00:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500940",
+    "gameDate": "2026-03-11T00:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500941",
+    "gameDate": "2026-03-11T00:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500942",
+    "gameDate": "2026-03-11T00:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500943",
+    "gameDate": "2026-03-11T02:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500944",
+    "gameDate": "2026-03-11T02:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500945",
+    "gameDate": "2026-03-11T02:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500946",
+    "gameDate": "2026-03-11T03:00:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500947",
+    "gameDate": "2026-03-11T23:30:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500948",
+    "gameDate": "2026-03-12T00:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500949",
+    "gameDate": "2026-03-12T01:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500950",
+    "gameDate": "2026-03-12T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500951",
+    "gameDate": "2026-03-12T02:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500952",
+    "gameDate": "2026-03-12T02:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500953",
+    "gameDate": "2026-03-12T23:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500954",
+    "gameDate": "2026-03-12T23:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500955",
+    "gameDate": "2026-03-12T23:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500956",
+    "gameDate": "2026-03-12T23:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500957",
+    "gameDate": "2026-03-12T23:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500958",
+    "gameDate": "2026-03-13T01:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500959",
+    "gameDate": "2026-03-13T01:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500960",
+    "gameDate": "2026-03-13T02:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500961",
+    "gameDate": "2026-03-13T23:30:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500962",
+    "gameDate": "2026-03-13T23:30:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500963",
+    "gameDate": "2026-03-13T23:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500964",
+    "gameDate": "2026-03-14T00:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500965",
+    "gameDate": "2026-03-14T00:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500966",
+    "gameDate": "2026-03-14T02:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500967",
+    "gameDate": "2026-03-14T02:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500968",
+    "gameDate": "2026-03-14T02:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500969",
+    "gameDate": "2026-03-14T17:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500970",
+    "gameDate": "2026-03-14T19:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500971",
+    "gameDate": "2026-03-14T22:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500972",
+    "gameDate": "2026-03-15T00:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500973",
+    "gameDate": "2026-03-15T00:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500974",
+    "gameDate": "2026-03-15T00:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500975",
+    "gameDate": "2026-03-15T02:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500976",
+    "gameDate": "2026-03-15T17:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500977",
+    "gameDate": "2026-03-15T19:30:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500978",
+    "gameDate": "2026-03-15T19:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500979",
+    "gameDate": "2026-03-15T19:30:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500980",
+    "gameDate": "2026-03-15T22:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500981",
+    "gameDate": "2026-03-16T00:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500982",
+    "gameDate": "2026-03-16T02:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500983",
+    "gameDate": "2026-03-16T23:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500984",
+    "gameDate": "2026-03-16T23:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500985",
+    "gameDate": "2026-03-16T23:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500986",
+    "gameDate": "2026-03-17T00:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500987",
+    "gameDate": "2026-03-17T00:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500988",
+    "gameDate": "2026-03-17T00:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500989",
+    "gameDate": "2026-03-17T01:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500990",
+    "gameDate": "2026-03-17T02:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500991",
+    "gameDate": "2026-03-17T23:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500992",
+    "gameDate": "2026-03-17T23:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500993",
+    "gameDate": "2026-03-17T23:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500994",
+    "gameDate": "2026-03-17T23:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500995",
+    "gameDate": "2026-03-18T00:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500996",
+    "gameDate": "2026-03-18T00:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500997",
+    "gameDate": "2026-03-18T01:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500998",
+    "gameDate": "2026-03-18T03:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022500999",
+    "gameDate": "2026-03-18T23:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501000",
+    "gameDate": "2026-03-18T23:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501001",
+    "gameDate": "2026-03-18T23:30:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501002",
+    "gameDate": "2026-03-19T00:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501003",
+    "gameDate": "2026-03-19T00:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501004",
+    "gameDate": "2026-03-19T00:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501005",
+    "gameDate": "2026-03-19T00:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501006",
+    "gameDate": "2026-03-19T00:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501007",
+    "gameDate": "2026-03-19T01:30:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501008",
+    "gameDate": "2026-03-19T23:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501009",
+    "gameDate": "2026-03-19T23:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501010",
+    "gameDate": "2026-03-20T00:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501011",
+    "gameDate": "2026-03-20T00:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501012",
+    "gameDate": "2026-03-20T00:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501013",
+    "gameDate": "2026-03-20T00:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501014",
+    "gameDate": "2026-03-20T01:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501015",
+    "gameDate": "2026-03-20T02:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501016",
+    "gameDate": "2026-03-20T23:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501017",
+    "gameDate": "2026-03-20T23:30:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501018",
+    "gameDate": "2026-03-21T00:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501019",
+    "gameDate": "2026-03-21T00:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501020",
+    "gameDate": "2026-03-21T00:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501021",
+    "gameDate": "2026-03-21T01:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501022",
+    "gameDate": "2026-03-21T21:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501023",
+    "gameDate": "2026-03-21T23:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501024",
+    "gameDate": "2026-03-21T23:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501025",
+    "gameDate": "2026-03-21T23:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501026",
+    "gameDate": "2026-03-22T00:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501027",
+    "gameDate": "2026-03-22T00:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501028",
+    "gameDate": "2026-03-22T00:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501029",
+    "gameDate": "2026-03-22T00:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501030",
+    "gameDate": "2026-03-22T01:30:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501031",
+    "gameDate": "2026-03-22T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501032",
+    "gameDate": "2026-03-22T21:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501033",
+    "gameDate": "2026-03-22T22:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501034",
+    "gameDate": "2026-03-22T23:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501035",
+    "gameDate": "2026-03-23T00:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501036",
+    "gameDate": "2026-03-23T01:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501037",
+    "gameDate": "2026-03-23T23:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501038",
+    "gameDate": "2026-03-23T23:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501039",
+    "gameDate": "2026-03-23T23:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501040",
+    "gameDate": "2026-03-23T23:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501041",
+    "gameDate": "2026-03-23T23:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501042",
+    "gameDate": "2026-03-24T00:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501043",
+    "gameDate": "2026-03-24T01:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501044",
+    "gameDate": "2026-03-24T01:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501045",
+    "gameDate": "2026-03-24T02:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501046",
+    "gameDate": "2026-03-24T02:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501047",
+    "gameDate": "2026-03-24T23:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501048",
+    "gameDate": "2026-03-24T23:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501049",
+    "gameDate": "2026-03-25T00:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501050",
+    "gameDate": "2026-03-25T03:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501051",
+    "gameDate": "2026-03-25T23:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501052",
+    "gameDate": "2026-03-25T23:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501053",
+    "gameDate": "2026-03-25T23:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501054",
+    "gameDate": "2026-03-25T23:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501055",
+    "gameDate": "2026-03-25T23:30:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501056",
+    "gameDate": "2026-03-26T00:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501057",
+    "gameDate": "2026-03-26T01:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501058",
+    "gameDate": "2026-03-26T01:30:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501059",
+    "gameDate": "2026-03-26T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501060",
+    "gameDate": "2026-03-26T02:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501061",
+    "gameDate": "2026-03-26T02:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501062",
+    "gameDate": "2026-03-26T02:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501063",
+    "gameDate": "2026-03-26T23:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501064",
+    "gameDate": "2026-03-26T23:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501065",
+    "gameDate": "2026-03-26T23:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501066",
+    "gameDate": "2026-03-27T23:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501067",
+    "gameDate": "2026-03-27T23:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501068",
+    "gameDate": "2026-03-27T23:30:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501069",
+    "gameDate": "2026-03-28T00:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501070",
+    "gameDate": "2026-03-28T00:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501071",
+    "gameDate": "2026-03-28T00:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501072",
+    "gameDate": "2026-03-28T01:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501073",
+    "gameDate": "2026-03-28T02:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501074",
+    "gameDate": "2026-03-28T02:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501075",
+    "gameDate": "2026-03-28T02:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501076",
+    "gameDate": "2026-03-28T19:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501077",
+    "gameDate": "2026-03-28T22:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501078",
+    "gameDate": "2026-03-28T23:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501079",
+    "gameDate": "2026-03-29T00:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501080",
+    "gameDate": "2026-03-29T00:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501081",
+    "gameDate": "2026-03-29T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501082",
+    "gameDate": "2026-03-29T19:30:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501083",
+    "gameDate": "2026-03-29T21:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501084",
+    "gameDate": "2026-03-29T22:00:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501085",
+    "gameDate": "2026-03-29T22:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501086",
+    "gameDate": "2026-03-29T22:00:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501087",
+    "gameDate": "2026-03-29T22:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501088",
+    "gameDate": "2026-03-29T23:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501089",
+    "gameDate": "2026-03-29T23:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501090",
+    "gameDate": "2026-03-30T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501091",
+    "gameDate": "2026-03-30T23:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501092",
+    "gameDate": "2026-03-30T23:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501093",
+    "gameDate": "2026-03-31T00:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501094",
+    "gameDate": "2026-03-31T00:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501095",
+    "gameDate": "2026-03-31T00:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501096",
+    "gameDate": "2026-03-31T01:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501097",
+    "gameDate": "2026-03-31T01:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501098",
+    "gameDate": "2026-03-31T02:00:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501099",
+    "gameDate": "2026-03-31T23:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501100",
+    "gameDate": "2026-03-31T23:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501101",
+    "gameDate": "2026-04-01T00:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501102",
+    "gameDate": "2026-04-01T00:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501103",
+    "gameDate": "2026-04-01T02:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501104",
+    "gameDate": "2026-04-01T03:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501105",
+    "gameDate": "2026-04-01T23:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501106",
+    "gameDate": "2026-04-01T23:30:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501107",
+    "gameDate": "2026-04-01T23:30:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501108",
+    "gameDate": "2026-04-02T00:00:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501109",
+    "gameDate": "2026-04-02T00:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501110",
+    "gameDate": "2026-04-02T00:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501111",
+    "gameDate": "2026-04-02T00:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501112",
+    "gameDate": "2026-04-02T01:00:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501113",
+    "gameDate": "2026-04-02T02:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501114",
+    "gameDate": "2026-04-02T23:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501115",
+    "gameDate": "2026-04-02T23:00:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501116",
+    "gameDate": "2026-04-02T23:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501117",
+    "gameDate": "2026-04-03T02:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501118",
+    "gameDate": "2026-04-03T02:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501119",
+    "gameDate": "2026-04-03T02:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501120",
+    "gameDate": "2026-04-03T23:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501121",
+    "gameDate": "2026-04-03T23:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501122",
+    "gameDate": "2026-04-03T23:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501123",
+    "gameDate": "2026-04-03T23:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501124",
+    "gameDate": "2026-04-04T00:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501125",
+    "gameDate": "2026-04-04T00:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501126",
+    "gameDate": "2026-04-04T00:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501127",
+    "gameDate": "2026-04-04T00:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501128",
+    "gameDate": "2026-04-04T02:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501129",
+    "gameDate": "2026-04-04T19:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501130",
+    "gameDate": "2026-04-04T19:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "SAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501131",
+    "gameDate": "2026-04-04T23:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501132",
+    "gameDate": "2026-04-05T19:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501133",
+    "gameDate": "2026-04-05T19:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501134",
+    "gameDate": "2026-04-05T19:30:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501135",
+    "gameDate": "2026-04-05T19:30:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501136",
+    "gameDate": "2026-04-05T22:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501137",
+    "gameDate": "2026-04-05T23:00:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501138",
+    "gameDate": "2026-04-05T23:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501139",
+    "gameDate": "2026-04-05T23:00:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501140",
+    "gameDate": "2026-04-05T23:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501141",
+    "gameDate": "2026-04-06T01:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501142",
+    "gameDate": "2026-04-06T02:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501143",
+    "gameDate": "2026-04-06T23:00:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "NYK",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501144",
+    "gameDate": "2026-04-06T23:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501145",
+    "gameDate": "2026-04-07T00:00:00Z",
+    "homeTeam": "MEM",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501146",
+    "gameDate": "2026-04-07T00:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501147",
+    "gameDate": "2026-04-07T01:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501148",
+    "gameDate": "2026-04-07T23:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501149",
+    "gameDate": "2026-04-07T23:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501150",
+    "gameDate": "2026-04-07T23:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501151",
+    "gameDate": "2026-04-07T23:30:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501152",
+    "gameDate": "2026-04-08T00:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501153",
+    "gameDate": "2026-04-08T00:00:00Z",
+    "homeTeam": "NOP",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501154",
+    "gameDate": "2026-04-08T02:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501155",
+    "gameDate": "2026-04-08T02:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501156",
+    "gameDate": "2026-04-08T02:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501157",
+    "gameDate": "2026-04-08T03:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "HOU",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501158",
+    "gameDate": "2026-04-08T23:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501159",
+    "gameDate": "2026-04-08T23:00:00Z",
+    "homeTeam": "ORL",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501160",
+    "gameDate": "2026-04-08T23:30:00Z",
+    "homeTeam": "DET",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501161",
+    "gameDate": "2026-04-09T00:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "POR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501162",
+    "gameDate": "2026-04-09T01:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501163",
+    "gameDate": "2026-04-09T02:00:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501164",
+    "gameDate": "2026-04-09T02:00:00Z",
+    "homeTeam": "PHX",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501165",
+    "gameDate": "2026-04-09T23:00:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501166",
+    "gameDate": "2026-04-09T23:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501167",
+    "gameDate": "2026-04-09T23:30:00Z",
+    "homeTeam": "BKN",
+    "awayTeam": "IND",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501168",
+    "gameDate": "2026-04-09T23:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "BOS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501169",
+    "gameDate": "2026-04-10T00:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501170",
+    "gameDate": "2026-04-10T02:00:00Z",
+    "homeTeam": "GSW",
+    "awayTeam": "LAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501171",
+    "gameDate": "2026-04-10T23:00:00Z",
+    "homeTeam": "CHA",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501172",
+    "gameDate": "2026-04-10T23:00:00Z",
+    "homeTeam": "WAS",
+    "awayTeam": "MIA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501173",
+    "gameDate": "2026-04-10T23:30:00Z",
+    "homeTeam": "ATL",
+    "awayTeam": "CLE",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501174",
+    "gameDate": "2026-04-10T23:30:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501175",
+    "gameDate": "2026-04-10T23:30:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "PHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501176",
+    "gameDate": "2026-04-10T23:30:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "TOR",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501177",
+    "gameDate": "2026-04-11T00:00:00Z",
+    "homeTeam": "CHI",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501178",
+    "gameDate": "2026-04-11T00:00:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "MIN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501179",
+    "gameDate": "2026-04-11T00:00:00Z",
+    "homeTeam": "MIL",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501180",
+    "gameDate": "2026-04-11T00:00:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "DAL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501181",
+    "gameDate": "2026-04-11T01:30:00Z",
+    "homeTeam": "UTA",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501182",
+    "gameDate": "2026-04-11T02:00:00Z",
+    "homeTeam": "DEN",
+    "awayTeam": "OKC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501183",
+    "gameDate": "2026-04-11T02:00:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "LAC",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501184",
+    "gameDate": "2026-04-11T02:00:00Z",
+    "homeTeam": "SAC",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501185",
+    "gameDate": "2026-04-11T02:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501186",
+    "gameDate": "2026-04-12T22:00:00Z",
+    "homeTeam": "BOS",
+    "awayTeam": "ORL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501187",
+    "gameDate": "2026-04-12T22:00:00Z",
+    "homeTeam": "CLE",
+    "awayTeam": "WAS",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501188",
+    "gameDate": "2026-04-12T22:00:00Z",
+    "homeTeam": "IND",
+    "awayTeam": "DET",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501189",
+    "gameDate": "2026-04-12T22:00:00Z",
+    "homeTeam": "MIA",
+    "awayTeam": "ATL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501190",
+    "gameDate": "2026-04-12T22:00:00Z",
+    "homeTeam": "NYK",
+    "awayTeam": "CHA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501191",
+    "gameDate": "2026-04-12T22:00:00Z",
+    "homeTeam": "PHI",
+    "awayTeam": "MIL",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501192",
+    "gameDate": "2026-04-12T22:00:00Z",
+    "homeTeam": "TOR",
+    "awayTeam": "BKN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501193",
+    "gameDate": "2026-04-13T00:30:00Z",
+    "homeTeam": "DAL",
+    "awayTeam": "CHI",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501194",
+    "gameDate": "2026-04-13T00:30:00Z",
+    "homeTeam": "HOU",
+    "awayTeam": "MEM",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501195",
+    "gameDate": "2026-04-13T00:30:00Z",
+    "homeTeam": "MIN",
+    "awayTeam": "NOP",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501196",
+    "gameDate": "2026-04-13T00:30:00Z",
+    "homeTeam": "OKC",
+    "awayTeam": "PHX",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501197",
+    "gameDate": "2026-04-13T00:30:00Z",
+    "homeTeam": "SAS",
+    "awayTeam": "DEN",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501198",
+    "gameDate": "2026-04-13T00:30:00Z",
+    "homeTeam": "LAL",
+    "awayTeam": "UTA",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501199",
+    "gameDate": "2026-04-13T00:30:00Z",
+    "homeTeam": "LAC",
+    "awayTeam": "GSW",
+    "gameStatus": 1
+  },
+  {
+    "gameId": "0022501200",
+    "gameDate": "2026-04-13T00:30:00Z",
+    "homeTeam": "POR",
+    "awayTeam": "SAC",
+    "gameStatus": 1
+  }
+]

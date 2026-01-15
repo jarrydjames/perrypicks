@@ -1,0 +1,61 @@
+import sys, re, joblib, requests, pandas as pd
+from predict_from_gameid_v2 import (
+    extract_game_id, fetch_box, fetch_pbp_df,
+    first_half_score, behavior_counts_1h,
+    team_totals_from_box_team, add_rate_features
+)
+
+def main():
+    gid = extract_game_id(sys.argv[1])
+
+    game = fetch_box(gid)
+    pbp = fetch_pbp_df(gid)
+
+    home = game["homeTeam"]
+    away = game["awayTeam"]
+home_name = f"{home.get('teamCity','')} {home.get('teamName','')}".strip()
+away_name = f"{away.get('teamCity','')} {away.get('teamName','')}".strip()
+
+
+    h1_home, h1_away = first_half_score(game)
+    beh = behavior_counts_1h(pbp)
+    ht = team_totals_from_box_team(home)
+    at = team_totals_from_box_team(away)
+
+    row = {
+        "h1_home": h1_home,
+        "h1_away": h1_away,
+        "h1_total": h1_home + h1_away,
+        "h1_margin": h1_home - h1_away,
+    }
+    row.update(beh)
+    row.update(add_rate_features("home", ht, at))
+    row.update(add_rate_features("away", at, ht))
+
+    X = pd.DataFrame([row])
+
+    total_obj = joblib.load("models/team_v2_2h_total.joblib")
+    margin_obj = joblib.load("models/team_v2_2h_margin.joblib")
+    intervals = joblib.load("models/v2_intervals.joblib")
+
+    pred_t = total_obj["model"].predict(X[total_obj["features"]])[0]
+    pred_m = margin_obj["model"].predict(X[margin_obj["features"]])[0]
+
+    t_lo = pred_t + intervals["resid_total_q10"]
+    t_hi = pred_t + intervals["resid_total_q90"]
+    m_lo = pred_m + intervals["resid_margin_q10"]
+    m_hi = pred_m + intervals["resid_margin_q90"]
+
+    print(f"\nGAME_ID: {gid}")
+    print(f"Halftime: {h1_home}-{h1_away}")
+    print("\n2H Projection:")
+    print(f"  Total: {pred_t:.2f}  (80% CI: {t_lo:.1f} – {t_hi:.1f})")
+    print(f"  Margin: {pred_m:.2f} (80% CI: {m_lo:.1f} – {m_hi:.1f})")
+
+    fh = h1_home + h1_away
+    print("\nFinal Projection:")
+    print(f"  Total: {fh + pred_t:.2f}  (80% CI: {fh + t_lo:.1f} – {fh + t_hi:.1f})")
+    print(f"  Margin: {pred_m + (h1_home - h1_away):.2f}")
+
+if __name__ == "__main__":
+    main()
