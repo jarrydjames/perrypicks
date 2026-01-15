@@ -68,7 +68,7 @@ st.markdown(
 # -----------------------------
 # Helpers
 # -----------------------------
-GAMEID_RE = re.compile(r"(002\d{8})")
+GAMEID_RE = re.compile(r"(002\d{7})")
 
 
 def extract_gid_safe(s: str) -> str | None:
